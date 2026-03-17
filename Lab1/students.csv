@@ -1,0 +1,5 @@
+Email_address,FirstName,LastName,Courses_id,Grades,marks
+sam@sjsu.edu,Sam,Carpenter,DATA200,A,96
+sam@sjsu.edu,Sam,Carpenter,CS100,A,94
+john@sjsu.edu,John,Doe,DATA200,B,85
+jane.j@sjsu.edu,Jane,Johnson,CS100,A,92
